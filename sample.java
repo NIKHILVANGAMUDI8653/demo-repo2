@@ -6,3 +6,8 @@ it is new 1 of sample.java 24
 
 first 100 lines of code
 	ufbkjasfjffekabnkj	
+
+
+
+java dev2
+
